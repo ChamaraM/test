@@ -43,7 +43,7 @@ public void a(){
 	  
 	  
 	  
-	  NewTest1.getDriver().get("http://www.google.lk");
+	  NewTest1.getDriver().get("http://www.sliit.lk");
 	//Clear the text field and Search for GMAIL web site 
 	 // driver.findElement(By.id("lst-ib")).clear(); 
 	//  driver.findElement(By.id("lst-ib")).sendKeys("GMAIL"); 
